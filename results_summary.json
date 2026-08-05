@@ -1,0 +1,13 @@
+{
+  "max_teams_in_flight": 19,
+  "max_teams_in_flight_time": "2102-06-26 23:08:00+00:00",
+  "total_fuel_spend_2102_point": 1817003.2896987943,
+  "total_fuel_spend_2102_lower": 1802135.8024144345,
+  "total_fuel_spend_2102_upper": 1831870.7769831542,
+  "model_info": {
+    "train_len": 328,
+    "test_len": 37,
+    "test_rmse": 0.002630273935636049,
+    "test_mae": 0.0016916660878655196
+  }
+}
